@@ -1,11 +1,5 @@
 # SAT Solver Interface for Swift
 
-This package provides only an interface to a SAT solver, no implementation.
-For packages that provide an implementation, see
-
-* [PicoSAT](https://github.com/ltentrup/PicoSAT)
-* [MiniSat](https://github.com/ltentrup/MiniSat)
-
 The interface is defined as follows:
 
 ```swift
